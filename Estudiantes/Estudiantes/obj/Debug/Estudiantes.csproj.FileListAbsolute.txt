@@ -1,0 +1,16 @@
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\aa\Estudiantes.resources.dll
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.AssemblyReference.cache
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.aa.resources
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\aa\Estudiantes.resources.dll
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.pdb
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Logica.dll
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\bin\Debug\Logica.pdb
+C:\Users\ctorr\Downloads\C#\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\ctorr\Downloads\C#\Estudiantes\Data\bin\Debug\Data.dll
+C:\Users\ctorr\Downloads\C#\Estudiantes\Data\bin\Debug\Data.pdb
+C:\Users\ctorr\Downloads\C#\Estudiantes\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\ctorr\Downloads\C#\Estudiantes\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\ctorr\Downloads\C#\Estudiantes\Data\obj\Debug\Data.dll
+C:\Users\ctorr\Downloads\C#\Estudiantes\Data\obj\Debug\Data.pdb
